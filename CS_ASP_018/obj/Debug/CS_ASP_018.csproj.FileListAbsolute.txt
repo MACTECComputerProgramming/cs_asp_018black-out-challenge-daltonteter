@@ -1,0 +1,15 @@
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\bin\Debug\CS_ASP_018.exe.config
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\bin\Debug\CS_ASP_018.exe
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\bin\Debug\CS_ASP_018.pdb
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\CS_ASP_018.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\App.g.cs
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\CS_ASP_018_MarkupCompile.cache
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\CS_ASP_018_MarkupCompile.lref
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\MainWindow.baml
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\CS_ASP_018.g.resources
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\CS_ASP_018.Properties.Resources.resources
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\CS_ASP_018.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\CS_ASP_018.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\CS_ASP_018.exe
+C:\Users\Owner\source\repos\CS_ASP_018\CS_ASP_018\obj\Debug\CS_ASP_018.pdb
